@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.1bb241af.css",
+    "main.js": "/port/static/js/main.a937e49b.js",
+    "static/media/home-main.svg": "/port/static/media/home-main.436aa9abe6bfe9cf07de8e03d7f76693.svg",
+    "static/media/glyphicons-halflings-regular.svg": "/port/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/port/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/about.png": "/port/static/media/about.cabce1aeaeeb26e50500.png",
+    "static/media/glyphicons-halflings-regular.woff": "/port/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/home-bg.jpg": "/port/static/media/home-bg.a5d73eed5b4a631c699d.jpg",
+    "static/media/glyphicons-halflings-regular.eot": "/port/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/port/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/port/index.html",
+    "main.1bb241af.css.map": "/port/static/css/main.1bb241af.css.map",
+    "main.a937e49b.js.map": "/port/static/js/main.a937e49b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb241af.css",
+    "static/js/main.a937e49b.js"
+  ]
+}
